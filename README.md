@@ -1,0 +1,2 @@
+# ChatGPT-web-sample
+ChatGPTをWebで利用できるようにしたもの。https接続までのやり方を説明したファイルを含む
