@@ -1,0 +1,23 @@
+2023-08-02 16:37:30.819 [info] 実験 'pythonPromptNewFormatterExt' はアクティブです
+2023-08-02 16:37:30.819 [info] 実験 'pythonPromptNewToolsExt' はアクティブです
+2023-08-02 16:37:31.406 [info] Test server listening.
+2023-08-02 16:37:31.463 [info] > /bin/python3 -I ./.vscode-server/extensions/ms-python.python-2023.12.0/pythonFiles/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2023.12.0/pythonFiles/interpreterInfo.py
+2023-08-02 16:37:31.530 [info] Python インタープリター パス: /bin/python3
+2023-08-02 16:37:31.722 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-08-02 16:37:31.722 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-08-02 16:37:31.723 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-08-02 16:37:33.247 [info] Pylance 言語サーバーを開始しています。
+2023-08-02 16:45:27.965 [info] > conda info --json
+2023-08-02 16:45:27.980 [info] Found: /bin/python --> /usr/bin/python3.11
+2023-08-02 16:45:27.981 [info] Found: /bin/python3 --> /bin/python3.9
+2023-08-02 16:45:27.981 [info] Found: /bin/python3.11 --> /bin/python3.11
+2023-08-02 16:45:27.981 [info] Found: /bin/python3.9 --> /bin/python3.9
+2023-08-02 16:45:28.001 [info] Found: /usr/bin/python --> /usr/bin/python3.11
+2023-08-02 16:45:28.002 [info] Found: /usr/bin/python3 --> /usr/bin/python3.9
+2023-08-02 16:45:28.002 [info] Found: /usr/bin/python3.11 --> /usr/bin/python3.11
+2023-08-02 16:45:28.002 [info] Found: /usr/bin/python3.9 --> /usr/bin/python3.9
+2023-08-02 16:45:28.018 [info] > /bin/python -I ./.vscode-server/extensions/ms-python.python-2023.12.0/pythonFiles/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2023.12.0/pythonFiles/interpreterInfo.py
+2023-08-02 16:45:28.048 [info] > /bin/python3.11 -I ./.vscode-server/extensions/ms-python.python-2023.12.0/pythonFiles/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2023.12.0/pythonFiles/interpreterInfo.py
+2023-08-02 16:45:28.127 [info] > /usr/bin/python3 -I ./.vscode-server/extensions/ms-python.python-2023.12.0/pythonFiles/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2023.12.0/pythonFiles/interpreterInfo.py
+2023-08-02 16:45:34.203 [info] Discover tests for workspace name: ec2-user - uri: /home/ec2-user
+2023-08-02 16:45:34.208 [info] Python インタープリター パス: /bin/python

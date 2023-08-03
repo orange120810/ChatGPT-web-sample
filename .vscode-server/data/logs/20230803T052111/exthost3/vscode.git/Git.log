@@ -1,0 +1,3 @@
+2023-08-03 05:30:22.069 [info] ログ レベル: Info
+2023-08-03 05:30:22.069 [info] Git の検証が検出されました: "git"
+2023-08-03 05:30:22.069 [warning] Git installation not found.

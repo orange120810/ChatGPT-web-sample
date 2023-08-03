@@ -1,0 +1,19 @@
+2023-08-03 05:21:33.878 [info] [Info  - 5:21:33 AM] (3033) Pylance language server 2023.8.10 (pyright 932e542d) starting
+2023-08-03 05:21:33.880 [info] [Info  - 5:21:33 AM] (3033) Server root directory: /home/ec2-user/.vscode-server/extensions/ms-python.vscode-pylance-2023.8.10/dist
+2023-08-03 05:21:33.885 [info] [Info  - 5:21:33 AM] (3033) Starting service instance "ec2-user"
+2023-08-03 05:21:34.031 [info] [Info  - 5:21:34 AM] (3033) Setting pythonPath for service "ec2-user": "/bin/python"
+2023-08-03 05:21:34.032 [info] [Warn  - 5:21:34 AM] (3033) stubPath /home/ec2-user/typings is not a valid directory.
+2023-08-03 05:21:34.120 [info] [Info  - 5:21:34 AM] (3033) Assuming Python version 3.11
+2023-08-03 05:21:34.367 [info] [Info  - 5:21:34 AM] (3033) Found 1 source file
+2023-08-03 05:21:36.151 [info] [Info  - 5:21:36 AM] (3033) Background analysis(1) root directory: /home/ec2-user/.vscode-server/extensions/ms-python.vscode-pylance-2023.8.10/dist
+2023-08-03 05:21:36.152 [info] [Info  - 5:21:36 AM] (3033) Background analysis(1) started
+2023-08-03 05:21:36.701 [info] [Info  - 5:21:36 AM] (3033) Indexer background runner(2) root directory: /home/ec2-user/.vscode-server/extensions/ms-python.vscode-pylance-2023.8.10/dist (index)
+2023-08-03 05:21:36.702 [info] [Info  - 5:21:36 AM] (3033) Indexing(2) started
+2023-08-03 05:21:38.780 [info] [Info  - 5:21:38 AM] (3033) [IDX(2)] Long operation: scan packages /home/ec2-user (2051ms)
+2023-08-03 05:21:38.780 [info] [Info  - 5:21:38 AM] (3033) scanned(2) 56 files over 1 exec env
+2023-08-03 05:21:42.068 [info] [Info  - 5:21:42 AM] (3033) [BG(1)] Long operation: checking: /home/ec2-user/main.py (4635ms)
+2023-08-03 05:21:42.069 [info] [Info  - 5:21:42 AM] (3033) [BG(1)] Long operation: analyzing: /home/ec2-user/main.py (5634ms)
+2023-08-03 05:21:43.167 [info] [Info  - 5:21:43 AM] (3033) [IDX(2)] Long operation: index execution environment /home/ec2-user (4187ms)
+2023-08-03 05:21:43.176 [info] [Info  - 5:21:43 AM] (3033) [IDX(2)] Long operation: index packages /home/ec2-user (4213ms)
+2023-08-03 05:21:43.176 [info] [Info  - 5:21:43 AM] (3033) indexed(2) 47 files over 1 exec env
+2023-08-03 05:21:43.191 [info] [Info  - 5:21:43 AM] (3033) Indexing finished(2).

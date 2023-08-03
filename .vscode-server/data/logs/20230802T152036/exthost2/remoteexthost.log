@@ -1,0 +1,28 @@
+2023-08-02 15:20:58.988 [info] Extension host with pid 2892 started
+2023-08-02 15:20:59.068 [info] Lock '/home/ec2-user/.vscode-server/data/User/workspaceStorage/dd7096e85a33ad9a59709d84f842d31b/vscode.lock': Lock acquired.
+2023-08-02 15:20:59.160 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*'
+2023-08-02 15:20:59.492 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2023-08-02 15:20:59.870 [info] Eager extensions activated
+2023-08-02 15:20:59.871 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-08-02 15:20:59.871 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-08-02 15:21:01.303 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-08-02 15:21:01.304 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-08-02 15:21:01.305 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-08-02 15:21:01.647 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2023-08-02 15:23:48.306 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2023-08-02 16:37:30.158 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2023-08-02 16:37:30.576 [warning] Using default string since no string found in i18n bundle that has the key: You need to select a Python interpreter before you start debugging.
+
+Tip: click on "Select Interpreter" in the status bar.
+2023-08-02 16:37:30.577 [warning] Using default string since no string found in i18n bundle that has the key: The Python extension now includes Pylance to improve completions, code navigation, overall performance and much more! You can learn more about the update and learn how to change your language server [here](https://aka.ms/new-python-bundle).
+
+Read Pylance's license [here](https://marketplace.visualstudio.com/items/ms-python.vscode-pylance/license).
+2023-08-02 16:37:30.578 [warning] Using default string since no string found in i18n bundle that has the key: The Microsoft Python Language Server has reached end of life. Your language server has been set to the default for Python in VS Code, Pylance.
+
+If you'd like to change your language server, you can learn about how to do so [here](https://devblogs.microsoft.com/python/python-in-visual-studio-code-may-2021-release/#configuring-your-language-server).
+
+Read Pylance's license [here](https://marketplace.visualstudio.com/items/ms-python.vscode-pylance/license).
+2023-08-02 16:37:30.906 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2023-08-02 16:46:39.529 [info] Extension host terminating: received terminate message from renderer
+2023-08-02 16:46:39.530 [info] Lock '/home/ec2-user/.vscode-server/data/User/workspaceStorage/dd7096e85a33ad9a59709d84f842d31b/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-08-02 16:46:39.617 [info] Extension host with pid 2892 exiting with code 0

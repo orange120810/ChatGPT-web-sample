@@ -1,0 +1,24 @@
+2023-08-03 05:30:35.290 [info] Extension host with pid 3934 started
+2023-08-03 05:30:35.421 [info] Lock '/home/ec2-user/.vscode-server/data/User/workspaceStorage/dd7096e85a33ad9a59709d84f842d31b/vscode.lock': Lock acquired.
+2023-08-03 05:30:35.729 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+2023-08-03 05:30:35.730 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2023-08-03 05:30:35.751 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-08-03 05:30:36.024 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2023-08-03 05:30:36.024 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2023-08-03 05:30:36.611 [warning] Using default string since no string found in i18n bundle that has the key: You need to select a Python interpreter before you start debugging.
+
+Tip: click on "Select Interpreter" in the status bar.
+2023-08-03 05:30:36.611 [warning] Using default string since no string found in i18n bundle that has the key: The Python extension now includes Pylance to improve completions, code navigation, overall performance and much more! You can learn more about the update and learn how to change your language server [here](https://aka.ms/new-python-bundle).
+
+Read Pylance's license [here](https://marketplace.visualstudio.com/items/ms-python.vscode-pylance/license).
+2023-08-03 05:30:36.613 [warning] Using default string since no string found in i18n bundle that has the key: The Microsoft Python Language Server has reached end of life. Your language server has been set to the default for Python in VS Code, Pylance.
+
+If you'd like to change your language server, you can learn about how to do so [here](https://devblogs.microsoft.com/python/python-in-visual-studio-code-may-2021-release/#configuring-your-language-server).
+
+Read Pylance's license [here](https://marketplace.visualstudio.com/items/ms-python.vscode-pylance/license).
+2023-08-03 05:30:37.767 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2023-08-03 05:30:39.547 [info] Eager extensions activated
+2023-08-03 05:30:39.548 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-08-03 05:30:39.548 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-08-03 05:31:05.534 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2023-08-03 05:42:01.292 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
