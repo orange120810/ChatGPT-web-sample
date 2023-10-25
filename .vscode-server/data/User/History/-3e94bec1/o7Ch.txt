@@ -1,9 +1,0 @@
-目標
-LINEでChatGPTを使えるようにする
-
-手順
-１．pythonのバージョンを最新にする
-２．pipのインストール
-３．gunicorn,nginx,flaskのインストール
-４．gunicornとnigixの連携(nginxとgunicornはhttp通信)
-５．ChatGPT返答確認用画面の作成

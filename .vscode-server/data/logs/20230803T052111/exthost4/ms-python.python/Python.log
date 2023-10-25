@@ -1,6 +1,0 @@
-2023-08-03 05:30:39.106 [info] 実験 'pythonPromptNewFormatterExt' はアクティブです
-2023-08-03 05:30:39.106 [info] 実験 'pythonPromptNewToolsExt' はアクティブです
-2023-08-03 05:30:39.106 [info] Test server listening.
-2023-08-03 05:30:39.889 [info] > /bin/python -I ./.vscode-server/extensions/ms-python.python-2023.12.0/pythonFiles/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2023.12.0/pythonFiles/interpreterInfo.py
-2023-08-03 05:30:40.055 [info] Python インタープリター パス: /bin/python
-2023-08-03 05:30:41.455 [info] Pylance 言語サーバーを開始しています。
